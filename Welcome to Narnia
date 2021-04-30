@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Japan</title>
+    </head>
+    <body>
+
+    <h1>Welcome to Japan!</h1>
+
+    <img src="https://th.bing.com/th/id/OIP.06d14sp7JpAZew8wwINBmAHaEu?pid=ImgDet&rs=1" alt="Japan with the image of the country and a city" width="500">
+    
+    <h2>Introduction</h2>
+    
+    <p>Welcome to Japan, a country that is futuristic with ancient traditions. Japan is a mind blowing place that has a mix of modern era with still being ultra tradition. The cities are lit with neon lights and the the country side is built cultrually.<br>
+    Japan is filled with exciting place to see and cusinie that is out of this world. This is also combined with the friendliest locals around the world and they are ready to welcome you into their culture.</p>
+    
+    <h2>Basic Information</h2>
+    
+    <p>Japan is simply one of the best places on earth to visit, you will be able to see a seamless blend of old tradition with new technology. A few facts that will make you fall in love with the country is they are high in safety, the food scene, and the overall culture.<br>
+    Japan is always in the top 10 countries about being safe beccause of how friendly the locals are. Even though the food has simple ingredients, it is prepared carefully and is decorated with the condiments of your choice. Lastly, the culture is overall amazing because of the<br>
+    of the aesthetic visual of gardens, homes, and poetry.</p>
+    
+    <h1>Places to Visit in Japan<h1>
+    
+    <ul>
+      <li>Tokyo</li>
+      <li>Mount Fuji</li>
+      <li>Kyoto</li>
+   </ul>
+   
+    <img src="https://blog.goway.com/globetrotting/wp-content/uploads/2018/01/Aerial-night-view-of-Tokyo-Tower-from-Mori-Tower-in-Roppongi-Hills-Tokyo-Japan_401168539.jpg?x26508" alt="aerial shot of the city of Tokyo Japan" width="400">
+   
+   <h1>Cuisine to Eat in Japan</h1>
+   
+   <ul>
+      <li>Ramen</li>
+      <li>Sushi</li>
+      <li>Kit Kat Bars</li>
+   </ul>
+   
+   <img src="https://th.bing.com/th/id/OIP.WOkCun6WZVRY1jKnbZhQPwHaE8?w=250&h=180&c=7&o=5&pid=1.7" alt="Japanese Kit Kats" width="400">
+     
+     </body>
+ </html>
