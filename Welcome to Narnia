@@ -3,10 +3,16 @@
     <head>
         <meta charset="utf-8">
         <title>Japan</title>
+    <style>
+        .japan-welcome{background-color: rgb(255, 105, 180);
+        }
+        body{background-color: rgb(255,153,153);
+        }
+    </style>
     </head>
     <body>
 
-    <h1>Welcome to Japan!</h1>
+    <h1 class="japan-welcome">Welcome to Japan!</h1>
 
     <img src="https://th.bing.com/th/id/OIP.06d14sp7JpAZew8wwINBmAHaEu?pid=ImgDet&rs=1" alt="Japan with the image of the country and a city" width="500">
     
@@ -21,7 +27,7 @@
     Japan is always in the top 10 countries about being safe beccause of how friendly the locals are. Even though the food has simple ingredients, it is prepared carefully and is decorated with the condiments of your choice. Lastly, the culture is overall amazing because of the<br>
     of the aesthetic visual of gardens, homes, and poetry.</p>
     
-    <h1>Places to Visit in Japan<h1>
+    <h1 class="japan-welcome">Places to Visit in Japan<h1>
     
     <ul>
       <li>Tokyo</li>
@@ -31,7 +37,7 @@
    
     <img src="https://blog.goway.com/globetrotting/wp-content/uploads/2018/01/Aerial-night-view-of-Tokyo-Tower-from-Mori-Tower-in-Roppongi-Hills-Tokyo-Japan_401168539.jpg?x26508" alt="aerial shot of the city of Tokyo Japan" width="400">
    
-   <h1>Cuisine to Eat in Japan</h1>
+   <h1 class="japan-welcome">Cuisine to Eat in Japan</h1>
    
    <ul>
       <li>Ramen</li>
